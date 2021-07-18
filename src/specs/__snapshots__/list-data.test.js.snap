@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Verify list of input data 1`] = `
+"These are the items in the Star Wars Names:
+  - Arun
+  - Seema
+  - Anshu
+  - Aryendra1"
+`;
